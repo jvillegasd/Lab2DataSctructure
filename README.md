@@ -15,8 +15,6 @@ You have to create a interative menu with this options:
    * Calculate deposit amount realize in 2 dates given.
    * Calculate extracted money until current date.
    * Calculate the balance of a given account.
-2. Account cancelation: Eliminate the corresponding node of the account,for that, the balance must equals zero.
-3. Account creation: Create a new node with necessary information and insert in the corresponding place (double linked list must be organized,
-   don't create a auxiliar data structure for organize this, you can choose the order of organitation: upward or falling). The minimun
-   amount to deposit in new account is 100000 COP$
+2.  Account cancelation: Eliminate the corresponding node of the account,for that, the balance must equals zero.
+3.  Account creation: Create a new node with necessary information and insert in the corresponding place (double linked list must be      organized,don't create a auxiliar data structure for organize this, you can choose the order of organitation: upward or falling). The minimun amount to deposit in new account is 100000 COP$.
    
