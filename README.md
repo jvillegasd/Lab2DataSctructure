@@ -8,8 +8,8 @@ The lab consist in a bank that has all the movement regist in a double linked li
  + Date
  + Account number
  + amount
+ 
 You have to create a interative menu with this options:
--------------------------------------------------------
 
 1. Query:
   1. Calculate deposit amount realize in 2 given.
