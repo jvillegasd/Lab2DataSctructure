@@ -1,4 +1,4 @@
-# Lab2DataSctructure
+# Lab2 DataSctructure
 In my opinion, a simple Lab
 
 The lab (Laboratory) was created with a friend (Javier Valencia) y me. This is very simple:
