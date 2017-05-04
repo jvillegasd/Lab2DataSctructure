@@ -7,7 +7,7 @@ The lab consist in a bank that has all the movement records in a double linked l
 
  + Date
  + Account number
- + amount
+ + Amount
  
 You have to create a interactive menu with this options:
 
