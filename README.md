@@ -1,7 +1,7 @@
 # Lab2 DataSctructure
 In my opinion, a simple Lab
 
-The lab (Laboratory) was created with a friend (Javier Valencia) and me. This is very simple:
+The lab (Laboratory) solution was created with a friend (Javier Valencia) and me. This is very simple:
 
 The lab consist in a bank that has all the movement regist in a double linked list, all the nodes must has this information:
 
