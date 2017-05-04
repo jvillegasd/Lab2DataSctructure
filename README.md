@@ -12,7 +12,7 @@ The lab consist in a bank that has all the movement records in a double linked l
 You have to create a interactive menu with this options:
 
 1. Query:
-   * Calculate deposit amount realize in 2 dates given.
+   * Calculate deposit amount realize in 2 given dates.
    * Calculate extracted money until current date.
    * Calculate the balance of a given account.
 2.  Account cancelation: Eliminate the corresponding node of the account,for that, the balance must equals zero.
